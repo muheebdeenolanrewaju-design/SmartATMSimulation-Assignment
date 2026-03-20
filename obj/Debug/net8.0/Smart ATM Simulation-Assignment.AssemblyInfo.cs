@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Smart ATM Simulation-Assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27008be5f86729ab474cabd5f27aef3f980ceca0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Smart ATM Simulation-Assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Smart ATM Simulation-Assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

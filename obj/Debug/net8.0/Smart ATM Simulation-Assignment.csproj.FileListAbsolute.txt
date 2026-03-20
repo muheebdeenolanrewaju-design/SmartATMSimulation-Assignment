@@ -12,3 +12,4 @@ C:\Users\HP\RiderProjects\Smart ATM Simulation-Assignment\obj\Debug\net8.0\refin
 C:\Users\HP\RiderProjects\Smart ATM Simulation-Assignment\obj\Debug\net8.0\Smart ATM Simulation-Assignment.pdb
 C:\Users\HP\RiderProjects\Smart ATM Simulation-Assignment\obj\Debug\net8.0\Smart ATM Simulation-Assignment.genruntimeconfig.cache
 C:\Users\HP\RiderProjects\Smart ATM Simulation-Assignment\obj\Debug\net8.0\ref\Smart ATM Simulation-Assignment.dll
+C:\Users\HP\RiderProjects\Smart ATM Simulation-Assignment\obj\Debug\net8.0\Smart ATM Simulation-Assignment.sourcelink.json
