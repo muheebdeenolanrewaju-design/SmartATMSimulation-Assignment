@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Smart ATM Simulation-Assignment/1.0.0": {
+        "runtime": {
+          "Smart ATM Simulation-Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Smart ATM Simulation-Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
